@@ -1,6 +1,11 @@
 # Skull-Slayer
 Skull Slayer DevSoc Hackathon Project
 
+This project was made by the efforts of a team of 2 people:
+1) Yash Yelmame
+2) Suraj Nainar
+Link to Suraj's GitHub: 
+
 This is a single player turn based attack game
 
 The rules of the game:
